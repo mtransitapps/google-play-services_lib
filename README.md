@@ -1,4 +1,4 @@
-google-play-services_lib
+google-play-services_lib [ARCHIVED]
 ========================
 
-Our current version of the Google Play Services library.
+From a time before proper dependencies management and Play Services library split.
